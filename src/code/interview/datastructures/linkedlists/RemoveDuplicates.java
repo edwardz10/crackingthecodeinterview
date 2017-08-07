@@ -69,7 +69,7 @@ public class RemoveDuplicates {
 		
 		MyLinkedList l = new MyLinkedList(values);
 		l.print();
-		removeDuplicates2(l);
+		removeDuplicates(l);
 		l.print();
 	}
 }

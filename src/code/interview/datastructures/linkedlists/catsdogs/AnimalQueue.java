@@ -1,4 +1,4 @@
-package code.interview.datastructures.catsdogs;
+package code.interview.datastructures.linkedlists.catsdogs;
 
 import java.util.LinkedList;
 

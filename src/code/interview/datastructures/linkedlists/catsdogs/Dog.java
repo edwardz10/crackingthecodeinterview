@@ -1,5 +1,5 @@
 
-package code.interview.datastructures.catsdogs;
+package code.interview.datastructures.linkedlists.catsdogs;
 
 public class Dog extends Animal {
 

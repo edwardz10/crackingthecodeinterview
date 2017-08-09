@@ -1,4 +1,4 @@
-package code.interview.datastructures.catsdogs;
+package code.interview.datastructures.linkedlists.catsdogs;
 
 public abstract class Animal {
 	private int order;

@@ -1,4 +1,4 @@
-package code.interview.datastructures.linkedlists;
+package code.interview.datastructures.stacksqueues;
 
 public class Node {
 	public Node next = null;

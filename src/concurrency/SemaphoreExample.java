@@ -37,7 +37,7 @@ public class SemaphoreExample {
 				Thread.sleep(5000L);
 
 				synchronized (PARKING_PLACES) {
-					PARKING_PLACES[parkingNumber] = true;					
+					PARKING_PLACES[parkingNumber] = false;					
 				}
 
 				SEMAPHORE.release();

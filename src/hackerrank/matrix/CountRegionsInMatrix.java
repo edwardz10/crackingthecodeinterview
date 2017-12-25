@@ -1,4 +1,4 @@
-package code.interview.datastructures.matrix;
+package hackerrank.matrix;
 
 import java.util.ArrayList;
 import java.util.HashSet;

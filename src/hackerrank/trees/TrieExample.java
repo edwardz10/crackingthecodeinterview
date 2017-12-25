@@ -1,4 +1,4 @@
-package code.interview.datastructures.trees;
+package hackerrank.trees;
 
 import java.util.HashMap;
 import java.util.Map;
